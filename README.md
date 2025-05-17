@@ -48,7 +48,7 @@ I’m a passionate software engineer currently learning at <strong>ALX Software 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felikz&show_icons=true&theme=tokyonight" alt="felikz stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felikz97&show_icons=true&theme=tokyonight" alt="felikz stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felikz&layout=compact&theme=tokyonight" alt="felikz top languages" />
 </p>
 
